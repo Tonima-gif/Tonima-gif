@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://ibb.co.com/DfvCzLCc"  />
+<img src="https://i.ibb.co.com/9H1TcGTK/banner.jpg" alt="banner">
 </div>
 
 ###
@@ -49,17 +49,23 @@
 ###
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=Easha-gif&show_icons=true&theme=dark#gh-dark-mode-only" alt="Easha's GitHub stats - Dark Mode">
+    <img src="https://github-readme-stats.vercel.app/api?username=Tonima-gif&show_icons=true&theme=dark#gh-dark-mode-only" alt="Tonima's GitHub stats - Dark Mode">
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=Easha-gif&show_icons=true&theme=default#gh-light-mode-only" alt="Easha's GitHub stats - Light Mode">
+    <img src="https://github-readme-stats.vercel.app/api?username=Tonima-gif&show_icons=true&theme=default#gh-light-mode-only" alt="Tonima's GitHub stats - Light Mode">
 </a>
 
 
 ###
 
 <h2 align="left">Social links</h2>
+
+###
+<div align="left">
+  <a href="https://www.linkedin.com/in/tonima-tajrin-26948b356/" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png" width="52" height="48" alt="linkedin logo"  />
+</div>
 
 ###
 
